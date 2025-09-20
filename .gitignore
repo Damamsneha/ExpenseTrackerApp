@@ -1,0 +1,15 @@
+ECHO is on.
+# Eclipse specific files
+.classpath
+.project
+.settings/
+bin/
+
+# Java files
+*.class
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
